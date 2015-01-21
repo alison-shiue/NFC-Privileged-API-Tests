@@ -159,7 +159,7 @@ body.test .test-panel {
     left: 0rem;
     right: 0rem;
     top: 0rem;
-    bottom: 3rem; /* tabs are at bottom, keep some space for it */
+    bottom: 0rem; /* tabs are at bottom, keep some space for it */
   }
 
   .list > li {
